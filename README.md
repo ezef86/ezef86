@@ -1,7 +1,7 @@
 ![Header](https://github.com/ezef86/ezef86/blob/main/github-header-image.png)
 <h3 align="center">Apasionado por la tecnología</h3>
 
-- 🌱 Actualmente estoy aprendiendo **infraestructura y desarrollo back-end.**
+- 🌱 Actualmente estoy aprendiendo **DevOps, redes, infraestructura y desarrollo full-stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
