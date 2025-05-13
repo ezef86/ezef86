@@ -1,4 +1,4 @@
-![Header](https://github.com/ezef86/ezef86/github-header-image.png)
+![Header](./github-header-image.png)
 <h3 align="center">Apasionado por la tecnología</h3>
 
 - 🌱 Actualmente estoy aprendiendo **DevOps, redes, infraestructura y desarrollo full-stack**
