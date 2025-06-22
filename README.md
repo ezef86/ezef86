@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 Administrador IT, cloud computing y DevOps...
 
 
